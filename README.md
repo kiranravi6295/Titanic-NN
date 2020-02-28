@@ -22,8 +22,17 @@ activate your_env_name
 conda install -c conda-forge matplotlib missingno seaborn numpy pandas -y
 conda install -c pytorch pytorch torchvision -y
 ```
+
+## Getting the result
+
+- Open the folder containing the notebook in anaconda Prompt and activate the python 3 environment created above.
 - Run the Jupyter Notebook
 ```
 jupyter notebook
 ```
-- Open Titanic NN.ipynb and enjoy.
+- Open Titanic NN.ipynb and Run all.
+- Find the Titanic_NN_submission.csv file with predictions.
+
+## License
+
+Feel free to do anything with it.
